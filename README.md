@@ -48,15 +48,27 @@ It includes functional pages for viewing albums and interacting with the UI, mak
 ## 📁 Project Structure
 
 AlbumAPP_A1/
+
 │── AlbumAPP_A1.sln
+
 │── AlbumAPP_A1.csproj
+
 │── App.xaml
+
 │── App.xaml.cs
+
 │── AppShell.xaml
+
 │── AppShell.xaml.cs
+
 │── MainPage.xaml
+
 │── MainPage.xaml.cs
+
 │── MauiProgram.cs
+
 │── Resources/
+
 │── Platforms/
+
 └── ...
